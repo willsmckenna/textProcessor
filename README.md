@@ -1,4 +1,4 @@
-TextProcessor Program
+TEXTPROCESSOR 2.0
 
 Uses a Pipe-And-Filter architecture to process a text file and returns at the end of the pipeline up to the top
 ten most common words, and if there are ties.
